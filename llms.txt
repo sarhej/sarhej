@@ -1,0 +1,25 @@
+# Sergej Fedorovic (sarhej)
+
+> Prague-based technologist. Co-founder and CTO of ABOS, an AI compliance gateway for regulated companies. Builds local-first, zero-trust developer and security tools.
+
+Name variants: Sergej Fedorovic, Sergej Fedorovič, Sergej Fedorovich, "Sergio". GitHub: sarhej.
+
+## Current
+- [ABOS](https://abos.pro): AI compliance gateway. Logs every AI prompt to a tamper-evident audit trail, replaces personal data with placeholders before it leaves the company, restores real values in the answer. First market: financial intermediaries in Czechia and Slovakia.
+
+## Products and open source
+- [DotEnvUp](https://github.com/sarhej/dotenvup): encrypted .env format (X25519 + XChaCha20-Poly1305). VS Code/Cursor extension, CLI, MCP server, Claude Code plugin. MIT. Site: https://dotenvup.com
+- [RemoteKit](https://remotekit.ai): use a coding agent on your own Mac from phone or browser; end-to-end encrypted, zero-knowledge relay. Operated by Pamakid s.r.o.
+- [UnknownPassword](https://unknownpassword.com): zero-knowledge secret sharing with in-browser AES-256-GCM. Operated by Pamakid s.r.o.
+- [claude-fix](https://github.com/sarhej/claude-fix): isolated multi-account Claude Desktop profiles on macOS. Homebrew tap. MIT. Not affiliated with Anthropic.
+- [Tymio](https://tymio.app): multi-tenant product management hub with an MCP server for AI agents.
+- [vg-stc2000-macos](https://github.com/sarhej/vg-stc2000-macos): Samsung VG-STC2000 TV camera as a macOS webcam.
+
+## Background
+- Enterprise architecture in telco CRM (Amdocs) and banking (BNP Paribas: KYC, AML, GDPR, PSD2, fraud).
+- CIO for fintech ventures at Creative Dock.
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/cto-mentor-architect
+- Writing: https://strt.it
+- Investing: https://strt.vc
